@@ -41,7 +41,7 @@ color:white;
 <h1 align="left" style="font-size: medium;color: #4d4d69;">Hi Guest..</h1>
 <h2 align="left" style="position: absolute;top: 80px;left: 328px;color: #4d4d69;">WELCOME TO YOUR ACCOUNT OVERVIEW</h2><br>
 <section class="wlp-login-message-content" style="left: 120px;top: 210px;">
-<b><p style="text-align: center;font-size: 25px;">DIGITAL TV</p></b>
+<b><p style="text-align: center;font-size: 25px;">DIGITA TV</p></b>
 <a href="" style="color: white;font-size: 20px;position: absolute;left:65px;">Create</a><br>
 <a href="" style="color: white;font-size: 20px;position: absolute;left:69px;">View</a><br>
 <a href="" style="color: white;font-size: 20px;position: absolute;left:52px;">Configure</a><br>
